@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudeep M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt=""coding" width="400" src="https://www.google.com/imgres?q=animated%20software%20engineer%20coding%20gif&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD4D12AQFAEA4kuPV1lg%2Farticle-cover_image-shrink_600_2000%2F0%2F1717060088914%3Fe%3D2147483647%26v%3Dbeta%26t%3DQkOe2W-ol2IDtdRm1p9cxRSnu_eYf5c3KFXX-3Gxtw0&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fmastering-learning-linkedin-strategies-software-boulouma-swe--oeuwf&docid=nLQHBteGhjrLDM&tbnid=b010JrOLBYqsaM&vet=12ahUKEwjTj5iQgaqIAxUTcmwGHdDiB-gQM3oECGAQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjTj5iQgaqIAxUTcmwGHdDiB-gQM3oECGAQAA.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fmastering-learning-linkedin-strategies-software-boulouma-swe--oeuwf&psig=AOvVaw10W7iwYfe37y9eXnR1TqXa&ust=1725592535542000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj5kpGi66qIAxWQTmwGHX11BBUQjRx6BAgAEBc)](https://media.licdn.com/dms/image/D4D12AQFAEA4kuPV1lg/article-cover_image-shrink_600_2000/0/1717060088914?e=2147483647&v=beta&t=QkOe2W-ol2IDtdRm1p9cxRSnu_eYf5c3KFXX-3Gxtw0)">
+
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQFAEA4kuPV1lg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721202639246?e=1730937600&v=beta&t=W0Hv__YppkaIr2rFPSzFFCtM6nA9VNCmAYgOYWJjO6o">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeepgowda18&label=Profile%20views&color=0e75b6&style=flat" alt="sudeepgowda18" /> </p>
 
