@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Weather Project**
 
-- 🌱 I’m currently learning **React, Backend, Data analyst**
+- 🌱 I’m currently learning **React, Backend**
 
 - 💬 Ask me about **Mern**
 
