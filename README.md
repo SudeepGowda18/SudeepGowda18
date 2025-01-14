@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeepgowda18&label=Profile%20views&color=0e75b6&style=flat" alt="sudeepgowda18" /> </p>
 
-- 🔭 I’m currently working on **Weather Project**
+- 🔭 I’m currently working on **Frontend Project**
 
 - 🌱 I’m currently learning **React, Backend**
 
